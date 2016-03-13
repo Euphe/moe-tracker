@@ -1,0 +1,39 @@
+encoding "utf8";               // указываем кодировку, в которой написан этот файл
+
+import "base.proto";           // подключаем описания protobuf-типов (TAuxDicArticle и прочих)
+import "articles_base.proto";  // Файлы base.proto и articles_base.proto встроены в компилятор.
+                               // Их необходимо включать в начало любого gzt-словаря.
+
+import "fact_types.proto";
+
+
+
+TAuxDicArticle "стоп_слова"
+{
+    key = {  "tomita:stopwords.cxx" type=CUSTOM }
+}
+
+TAuxDicArticle "имена"
+{
+    key = {  "tomita:names.cxx" type=CUSTOM }
+}
+
+TAuxDicArticle "названия"
+{
+    key = {  "tomita:geo.cxx" type=CUSTOM }
+}
+
+TAuxDicArticle "граммемы"
+{
+    key = {  "tomita:grammemes.cxx" type=CUSTOM }
+}
+
+TAuxDicArticle "маркеры_локаций"
+{
+    key = "область" | "регион" | "округ" | "федеральный округ" | "республика"; 
+}
+
+TAuxDicArticle "названия_стран"
+{
+	key = "США" | "Россия" | "Украина" | "Беларусь" | "Казахстан" | "Белоруссия" | "РФ" | "Российская Федерация" | "Турция"; 
+}

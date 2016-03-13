@@ -1,0 +1,81 @@
+﻿n#05593296	diffidence about self promotion	unassertiveness	neinsistenţa	застенчивость скромность
+n#05592071	a feeling of alarm or dread	trepidation	trepidaţie agitaţie frămîntare	трепет беспокойство волнение тревога
+n#05592739	fear of the unknown or unfamiliar or fear of making decisions	timidity timidness timorousness	frică teamă sfială şovăială timiditate	робость застенчивость пугливость нерешительность боязливость боязнь
+n#05592642	apprehension about what is going to happen	suspense	aşteptare încordare	беспокойство неопределённость неизвестность тревога_ожидания
+n#05592914	a feeling of fear of embarrassment	shyness	jenă stinghereală complicaţie încurcătură strîmtoare greutate dificultate impediment	скромность замешательство смущение застенчивость робость
+n#05592428	a feeling of sad	shadow	trist abătut melancolic mîhnit întristat mohorît regretabil tragic dureros	грусть уныние печаль
+n#05591591	a sudden attack of fear	scare panic_attack	panică frică spaimă atac_de_panică	паника испуг приступ_паники
+n#05591377	an overwhelming feeling of fear and anxiety	panic terror	panică alarmă teroare groază spaimă	переполох тревога паника страх ужас боязнь
+n#05593389	the feeling of being intimidated; being made to feel afraid or timid	intimidation	intimidare îngrozire ameninţare	страх запуганность угроза устрашение
+n#05591290	excessive or uncontrollable fear	hysteria	isterie isterism	истерия паника
+n#05591212	intense and profound fear	horror	frisoane oroare groază grozăvie	ужас страх боязнь опасение тревога
+n#05593183	a feeling of diffidence and indecision about doing something	hesitance hesitancy	ezitare nehotărîre şovăire	колебание неуверенность нерешительность
+n#05579669	an absence of concern for the welfare of others	heartlessness coldheartedness hardheartedness	cruzime înverşunare indiferenţa duritate lipsa_de_milă împietrire_sufletească	бессердечность безжалостность бессердечие жестокость бездушие равнодушие равнодушность жестокосердие бесчувственность чёрствость
+n#05592156	an early warning about a future event	foreboding premonition presentiment boding	presimţire presentiment	предостережение предуведомление предупреждение пророчество предзнаменование предречение предсказание
+n#05590260	an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)	fear fearfulness fright	spaimă groază frică	боязнь испуг страх смятение ужас тревога
+n#05593002	lack of self-confidence	diffidence self-doubt self-distrust	timiditate modestie neîncredere_în_sine îndoială_în_forţele_proprii	робость скромность неуверенность_в_себе
+n#05592546	a foreboding about what is about to happen	presage	prevestire profeţie	знамение предзнаменование предсказание пророчество предчувствие
+n#05579830	feelings of extreme heartlessness	cruelty mercilessness pitilessness ruthlessness	neîndurare cruzime asprime barbarie	жестокость зверство безжалостность беспощадность
+n#05603115	a sudden numbing dread	chill pall	friguri şoc	испуг ужас шок
+n#05591792	fearful expectation or anticipation	apprehension apprehensiveness dread	teamă groază spaimă	опасение подозрение тревога ужас страх трепет
+n#05591681	fear that affects a person about to face an audience	stage_fright	trac	страх трепет волнение_перед_выходом_на_сцену
+n#05590744	fear resulting from the awareness of danger	alarm dismay consternation	alarmă panică descurajare consternare mîhnire	тревога опасение смятение страх испуг беспокойство волнение_
+n#05590900	a feeling of fear and revulsion	creeps	fiori	страх содрогание антипатия
+a#00081890	experiencing a sudden sense of danger	alarmed	speriat	встревоженный обеспокоенный
+a#00783553	causing or fraught with or showing anxiety	anxious apprehensive	neliniştit îngrijorător	озабоченный беспокоящийся тревожный беспокойный обеспокоенный
+a#00194690	provoking fear terror	chilling scarey scary shivery shuddery	infiorator groaznic îngrozitor înspăimântător care_îţi_îngheaţă_sîngele_în_vene	страшный ужасный жуткий вызывающий_дрожь содрогание трепет
+a#00082090	in fear or dread of possible evil or harm	apprehensive	temător neliniştit care_are_presimţiri_rele	тревожащийся боящийся опасающийся
+a#01111594	(of persons or their actions) able or disposed to  inflict pain or suffering	cruel unkind	nemilos aspru neomenos crud	жестокий безжалостный суровый беспощадный жестокосердный лютый свирепый дикий злой
+a#01916045	showing modest reserve	diffident	modest timid	осторожный робкий стеснительный
+a#00082515	causing fear or dread or terror	fearful	înfricoşator înspăimîntător	страшный страшен ужасен ужасный
+a#01079947	extreme in degree or extent or amount or impact	fearful frightful terrible	teribil grozav extraordinar înspăimîntător groaznic	ужасающий страшный ужасный кошмарный чудовищный
+a#00159086	inclined to timidity or lack of self-confidence	unassertive	modest_ timid sfiicios sfios	застенчивый скромный робкий неуверенный_в_себе
+a#00193648	causing fear or dread or terror	awful dire direful dread dreaded dreadful fearful fearsome frightening horrendous horrific terrible	îngrozitor groaznic teribil înfricoşător înspăimîntător oribil	ужасный страшный жуткий грозный зловещий чудовищный пугающий устрашающий кошмарный
+a#00193648	causing fear or dread or terror	awful dire direful dread dreaded dreadful fearful fearsome frightening horrendous horrific terrible	îngrozitor groaznic teribil înfricoşător înspăimîntător oribil	ужасный страшный жуткий грозный зловещий чудовищный пугающий устрашающий кошмарный
+a#00248123	showing fear and lack of confidence	timid	sfios timid	робкий застенчивый испуганный тревожный беспокойный
+a#00248776	timid by nature or revealing timidity	fearful timorous trepid	fricos sperios timid sfios trepidant	робкий боязливый пугливый трепетный
+a#00248975	(make timid or fearful)	intimidated	intimidat	запуганный устрашённый
+a#00080744	filled with fear or apprehension	afraid	speriat	испуганный напуганный боящийся
+a#00193347	exceptionally bad or displeasing	atrocious frightful horrifying horrible ugly	înspăimîntător ingrozitor infiorator grozav enorm atroce groaznic oribil	свирепый жестокий зверский ужасный ужасающий шокирующий жуткий страшный скверный
+a#00193347	exceptionally bad or displeasing	atrocious frightful horrifying horrible ugly	înspăimîntător îngrozitor înfiorător grozav enorm atroce groaznic oribil	свирепый жестокий зверский ужасный ужасающий шокирующий жуткий страшный скверный
+a#01567385	grossly offensive to decency or morality; causing horror	hideous horrid horrific outrageous	hidos neplăcut nesuferit antipatic oribil înspăimîntător	возмутительный оскорбительный вопиющий отвратительный страшный ужасный противный ужасающий
+a#00089407	marked by excessive or uncontrollable emotion	hysterical	isteric istericos	истерический истеричный
+a#00082247	frightened into submission or compliance	browbeaten bullied cowed hangdog intimidated	intimidat brutalizat bătut jalnic mizerabil	запуганный устрашенный напуганный пристыженный обвиненный устыдившийся
+a#00083333	thrown into a state of intense fear or desperation	panicky panicked panic-stricken panic-struck terrified frightened	panicat terifiat speriat	напуганный испуганный отчаявшийся паникующий ужасающийся охваченный_паникой
+a#00082798	stricken with horror	horrified horror-stricken horror-struck	îngrozit înfiorat înspăimântat	испуганный напуганный ужаснувшийся шокированный
+a#00082641	made afraid	frightened scared	speriat intimidat îngrozit timorat	испуганный пугающийся напуганный боящийся
+a#00164569	wary and distrustful; disposed to avoid persons or things	shy	sfios timid sperios	застенчивый осторожный робкий стеснительный подозрительный настороженный
+a#00331296	lacking self-confidence	diffident shy timid unsure	sfios timid sperios modest nesigur şovăielnic ezitant şovăitor	робкий застенчивый неуверенный_в_себе
+a#00331296	lacking self-confidence	diffident shy timid unsure	sfios timid sperios modest nesigur şovăielnic ezitant şovăitor	робкий застенчивый неуверенный_в_себе
+a#01110850	lacking in feeling or pity or warmth	hardhearted heartless	rece insensibil fără_inimă	жестокосердный жестокий бесчувственный чёрствый нечуткий бездушный безжалостный бессердечный
+a#02290470	(of a situation) characterized by or causing suspense	cliff-hanging suspenseful suspensive	nesigur suspans nerezolvat	беспокойный тревожный неопределенный напрягающий
+v#01217571	fill with apprehension or alarm; cause to be unpleasantly surprised	dismay alarm appal appall horrify	a_consterna a_descuraja a_alarma a_îngrozi a_înfricoşa a_scandaliza a_înspăimînta	пугать беспокоить волновать ужасать потрясать приводить_в_смятение
+v#01217571	fill with apprehension or alarm; cause to be unpleasantly surprised	dismay alarm appal appall horrify	a_consterna a_descuraja a_alarma a_îngrozi a_înfricoşa a_scandaliza a_înspăimînta	пугать беспокоить волновать ужасать потрясать приводить_в_смятение
+v#01217265	be overcome by a sudden fear	panic	a_panica a-și_pierde_capul	паниковать переполошиться запаниковать
+v#01217082	cause sudden fear in or fill with sudden panic	panic	a_panica a_înnebuni a_îngrozi	ужасать потрясать вызывать_панику приводить_в_смятение
+v#00591365	warn or arouse to a sense of danger or call to a state of preparedness	alarm alert	a_alarma a_preveni	встревожить обеспокоить испугать насторожить
+v#01214618	cause fear in	frighten fright scare affright	a_speria a_îngrozi a_înspăimînta	запугать испугать пугать напугать ужасать
+v#01215448	be afraid or scared of; be frightened of	fear dread	a_se_teme a-i_fi_frică a-i_fi_groază	бояться страшиться пугаться ужасаться трепетать
+v#01215644	be afraid or feel anxious or apprehensive about a possible or probable situation or event	fear	fi_îngrijorat fi_speriat _fi_alarmat fi_impacient fi_impacientat fi_anxios	бояться опасаться
+v#01215760	be sorry; used to introduce an unpleasant statement	fear	a_se_teme	бояться
+v#01215921	be uneasy or apprehensive about	fear	fi_îngrijorat a_se_nelinişti	бояться беспокоиться
+v#01216252	make timid or fearful	intimidate	a_intimida a_timora	запугивать устрашать
+v#01216971		horrify	a_îngrozi a_şoca a_înfiora a_înspăimînta a_scandaliza a_oripila	ужасать шокировать
+v#01240960	depress or discourage	chill	a_descuraja a_demoraliza a_deprima	подавлять угнетать обескураживать удручать
+v#01411779	show submission or fear	fawn crawl creep cringe cower grovel	a_se_înfiora a_se_piti a_se_ploconi	пресмыкаться раболепствовать угодничать унижаться
+v#01219733	cause to lose courage	daunt dash scare_off pall frighten_off scare_away frighten_away scare	a_înspăimînta a_descuraja a_intimida a_înfricoşa	подчинять обуздывать укрощать покорять запугивать устрашать
+r#00228933	with cruelty	cruelly	crud cu_cruzime fără_milă	безжалостно сурово беспощадно жестокосердно
+r#00303711	in a diffident manner	diffidently	cu_modestie sfios	робко застенчиво неуверенно
+r#00349592	in a heartless manner	heartlessly	fără_inimă fără_milă necruţător cu_cruzime	безжалостно бессердечно жестоко бездушно
+r#00142272	with hesitation; in a hesitant manner	hesitantly hesitatingly	ezitant şovăitor şovăielnic nehotărît nesigur	нерешительно колеблясь сомневаясь неуверенно
+r#00054569	of a dreadful kind	dreadfully awfully horribly	teribil îngrozitor groaznic înfiorător oribil	ужасающе чудовищно ужасно страшно
+r#00355286	in a hysterical manner	hysterically	isteric	истерически истерично
+r#00351154	in a hideous manner	hideously horridly monstrously	în_mod_hidos în_mod_oribil în_mod_înfiorător monstruos	страшно ужасно чудовищно
+r#00340392	in an alarming manner	frighteningly scarily	înspăimântător înfricoşator	пугающе жутко ужасно ужасающе
+r#00225227	in a shy or timid or bashful manner	shyly timidly bashfully	cu_timiditate sfios cu_sfială	застенчиво робко стеснительно скромно
+r#00243839	in a horrifying manner	horrifyingly	orifiant teribil	ужасно страшно ужасающе
+r#00473201	in a timorous and trepid manner	timorously trepidly	trepidant cu_frica cu_teamă cu_timiditate	боязливо робко трепетно
+r#00262054	in an unassertive manner	unassertively	neinsistent	скромно застенчиво
+r#00182087	with anxiety or apprehension	anxiously uneasily apprehensively	nerăbdător neliniştit stinjenit stingherit incomodat jenat tulburat agitat	тревожно беспокойно волнуясь трусливо малодушно нерешительно
+r#00196317	in an alarming manner	fearfully	cu_teamă cu_frică	страшно ужасно пугающе
+

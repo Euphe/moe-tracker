@@ -1,0 +1,27 @@
+﻿n#05582577	the feeling aroused by something strange and surprising	wonder  wonderment  admiration	mirare uimire surprindere admiraţie	удивление изумление восторг восхищение
+n#05582875	cause to be surprised	surprise	suprindere uimire surpriză	неожиданность сюрприз
+n#05583004	a feeling of stupefied astonishment	stupefaction	stupefacţie stupoare	изумление остолбенение оцепенение ступор
+n#05582729	an overwhelming feeling of wonder or admiration	awe	veneraţie groază_îmbinată_cu_respect evlavie sentiment înfiorare veneraţie	страх трепет благоговение
+n#05582358	the feeling that accompanies something extremely surprising	astonishment  amazement	uimire mirare uluire surprindere năucire	изумление удивление
+a#11230203	so surprisingly impressive as to stun or overwhelm	astonishing  astounding  staggering  stupefying	uimitor uluitor ametitor zguduitor stupefiant năucitor surprinzător	поразительный ошеломительный ошеломляющий потрясающий шокирующий
+a#02248624	surprising greatly	amazing  astonishing	uluitor uimitor	изумительный ошеломительный поразительный удивительный
+a#02246844	filled with the emotional impact of overwhelming surprise or shock	amazed  astonied  astonished  astounded  stunned	uluit zăpăcit împietrit mirat	изумлённый поражённый удивлённый ошеломлённый шокированный потрясённый
+a#01943022	having or showing a feeling of mixed reverence and respect and wonder and dread	awed  awestruck  awestricken  in_awe_of	speriat înspăimântat îngrozitor excepţional groaznic grozav teribil	почтительный благоговеющий трепещущий перепуганный
+a#01940914	inspired by a feeling of fearful wonderment or reverence	awed  awful	excepţional grozav	страшный ужасный величественный
+a#00195880	shocking with surprise and consternation	stupefying	stupefiant	ужасающий изумляющий поражающий ошеломляющий оглушающий шокирующий
+a#00405649	in a state of mental numbness especially as resulting from shock	dazed  stunned  stupefied  stupid	uluit zăpăcit năuc năucit buimac uimit stupefiat	онемелый оцепенелый ошеломлённый потрясённый шокированный оцепеневший остолбеневший оглушённый
+a#02247311	as if struck dumb with astonishment and surprise	dumbfounded  dumfounded  flabbergasted  stupefied  thunderstruck	uluit stupefiat trăsnit	изумленный ошарашенный ошеломлённый потрясённый онемевший
+a#02248299	causing surprise or wonder or amazement	surprising	surprinzător	неожиданный внезапный непредсказуемый поразительный удивительный
+a#02246531	taken unawares or suddenly and feeling wonder or astonishment	surprised	mirat surprins	удивленный изумленный
+a#01617066	extraordinarily good or great ; used especially as intensifiers	fantastic  howling  marvelous  rattling  terrific  tremendous  wonderful  wondrous	excentric fantastic minunat grozav nemaipomenit extraordinar înspăimîntător lugubru urlător fantastic cumplit groaznic scandalos îngrozitor înfiorător splendid nespus;	фантастический изумительный великолепный превосходный потрясающий замечательный невиданный ошеломляющий восхитительный необычайный колоссальный
+v#00491471	affect with wonder	amaze  astonish  astound	a_ului a_buimăci a_uimi	изумлять поражать удивлять поразить удивить изумить
+v#01214954	inspire awe in	awe	a_îngrozi	пугать внушать_страх благоговение
+v#00183525	make senseless or dizzy by or as if by a blow	stun  stupefy  stupify	a_ameţi a_buimăci a_nauci a_zapaci a_înţepeni a_amorţi	оглушить ошеломить шокировать
+v#00421500	be a mystery or bewildering to	perplex  get  puzzle  mystify  baffle  beat  bewilder  flummox  stupefy  nonplus  gravel  amaze  dumbfound  trounce	a_încurca a_deconcerta a_dezorienta a_zăpăci a_buimăci a_deruta	смущать озадачивать удивлять ошарашить ошеломить потрясти запутывать мистифицировать ошарашить ошеломить потрясти
+v#01447978	make dull or stupid or muddle with drunkenness or infatuation	besot  stupefy  stupify	a_abrutiza a_prosti a_tîmpi	опьянить одурманивать
+v#00491581	cause to be surprised	surprise	a_surprinde	изумлять поражать удивлять
+v#00626227	have a wish or desire to know something	wonder  marvel	a_se_mira a_fi_surprins a_se_minuna	интересоваться любопытствовать
+r#00209555	in an amazing manner; to everyone's surprise	аmazingly  surprisingly  astonishingly	uimitor neasteptat	удивительно поразительно неожиданно
+r#00141302	in a surprising manner	surprisingly	neaşteptat surprinzător	удивительно поразительно неожиданно
+r#00466103	in the manner of one who is surprised	surprisedly	cu_surprindere surprins	удивлённо поражённо ошеломлённо ошарашено изумлённо
+r#00179150	(used as an intensifier) extremely well	wonderfully  wondrous  wondrously  superbly   toppingly  marvelously  terrifically	în_mod_extraordinar minunat nemaipomenit fermecător superb	чудесно невиданно великолепно удивительно ужасно изумительно замечательно поразительно дивно невиданно великолепно страшно ужасно превосходно

@@ -1,0 +1,118 @@
+﻿a#00031053	immoderately desirous of acquiring e.g. wealth 	 avaricious covetous grabby grasping greedy prehensile	avar zgîrcit invidios lacom pizmaş hrăpăreţ dornic avid pofticios	алчный корыстолюбивый жадный
+a#00092842	causing irritation or annoyance	 annoying bothersome galling irritating nettlesome pesky pestering pestiferous plaguy plaguey teasing vexatious vexing	supărător neplăcut plicticos exasperant iritant enervant agasant pisalog cicalitor sâcâitor nesuferit	раздражающий навязчивый надоедливый назойливый нудный
+a#00117308	feeling or showing anger	 angry	mînios mîniat	злой сердитый недовольный рассерженный раздражённый разгневанный
+a#00117684	incited, especially deliberately, to anger	 aggravated provoked	agravat provocat	рассерженный раздражённый
+a#00117872	marked by extreme anger	 angered enraged furious infuriated maddened	mâniat înfuriat furibund furios înnebunit	взбешенный рассвирепевший разъяренный
+a#00118303	characterized by anger	 choleric irascible	coleric irascibil iritabil	вспыльчивый раздражительный желчный гневливый
+a#00118531	roused to anger	 huffy mad sore	înfuriat smintit turbat	раздраженный раздосадованный разгневанный
+a#00118752	angered at something unjust or wrong	 indignant incensed outraged umbrageous	indignat enervat insultat	негодующий возмущённый обиженный
+a#00119146	furiously angry	 livid	livid plumburiu vînăt învineţit furios mînios 	взбешенный разозлённый рассвирипевший разъяренный разгневанный
+a#00119459	vehemently incensed and condemnatory 	 wrathful wroth wrothful	furios mînios	гневный рассерженный разгневанный
+a#00119743	full of or marked by resentment or indignant ill will	resentful	indignat revoltat ranchiunos supărăcios	обиженный возмущённый негодующий
+a#00220990	having or exerting a malignant influence	malefic malevolent malign evil	ranchiunos supărăcios	пагубный гибельный недоброжелательный злобный злой недобрый злостный
+a#00221675	wishing or appearing to wish evil to others; arising from intense ill will or hatred	malevolent malicious	răuvoitor duşmănos rautacios	злоумышленный злонамеренный злобный злой злорадный недоброжелательный
+a#00222851	showing malicious ill will and a desire to hurt; motivated by spite	despiteful spiteful vindictive	ciudos dispreţuitor ranchiunos duşmănos pizmaş răutăcios răzbunător	жестокий злобный злой ожесточённый злорадный озлобленный
+a#00659470	 	baffled balked discouraged frustrated	zăpăcit încurcat nedumerit frustrat contrariat descurajat	 
+a#00698764	causing envy	enviable	de_invidiat demn_de_invidiat 	завидный
+a#00826169	discouraging by hindering	frustrating	frustrant	разочаровывающий обескураживающий удручающий
+a#00845237	showing extreme cupidity; painfully desirous of another's advantages 	 covetous envious jealous	zgîrcit invidios lacom pizmaş gelos foarte_doritor rîvnitor acaparator hapsîn	жадный скупой алчный завистливый
+a#01024648	characterized by enmity or ill will	 hostile	rău_intenţionat duşmănos ostil inamic neprietenos rece glaciar neospitalier antagonist 	враждебный неприязненный недружелюбный
+a#01089436	sullen or moody	huffish sulky	îmbufnat morocănos susceptibil supărăcios	мрачный надутый угрюмый гнетущий замкнутый зловещий унылый угрюмый 
+a#01089513	hating mankind in general	misanthropic misanthropical	mizantropic	человеконенавистнический
+a#01193200	impossible to bring into friendly accord	hostile	ostil duşmănos	вражеский враждебный неприятельский
+a#01193636	characteristic of an enemy or one eager to fight 	 aggressive belligerent	agresiv beligerant pornit bătăios ameninţător 	агрессивный воинственный боевой драчливый враждебный
+a#01400194	evoking or deserving hatred	 hateful	odios ostil duşmănos antipatic nesuferit	ненавистный
+a#01733963	not pleased; experiencing or manifesting displeasure	 displeased	nemultumit indispus	недовольный раздосадованный раздражённый неудовлетворенный
+a#01734180	aroused to impatience or anger 	 annoyed irritated nettled peeved pissed riled roiled stung	supărat enervat iritat necăjit amărît agasat exasperat tulburat scos_din_sărite	рассерженный раздражённый недовольный раздосадованный уязвлённый возмущенный
+a#01737080	causing displeasure or lacking pleasing qualities	 displeasing	dezagreabil neplăcut nemulţumit supărat	неприятный противный
+a#01737503	extremely annoying or displeasing	 exasperating infuriating maddening vexing	exasperant enervant înnebunitor supărător iritant plictisitor enervant jignitor ofensator 	раздражающий надоедливый невыносимый несносный досаждающий
+a#02023897	???	 begrudging envious grudging	invidios gelos	завистливый жадный скупой алчный
+a#02336957	troubled persistently especially with petty annoyances	 annoyed harassed harried pestered vexed	enervat hărţuit necăjit suparat iritat enervat vexat ofensat jignit	раздосадованный раздражённый утомлённый изнурённый раздосадованный
+a#02345311	suspicious or unduly suspicious or fearful of being displaced by a rival 	jealous green-eyed overjealous	gelos invidios pizmaş	ревнивый ревнующий
+a#02345625	used of men having deep-seated distrust of women	misogynic	misoginie misoginism	женоненавистник
+n#05577810	hate coupled with disgust	 abhorrence abomination detestation execration loathing odium	silă repulsie oroare aversiune detestare urâciune	отвращение омерзение ненависть неприятие
+n#05587878	a strong emotion; a feeling that is oriented toward some real or supposed grievance	 anger choler ire	mînie furie acces_de_mînie nemulţumire_profundă acces_de_furie supărare nemulţumire	гнев злость ярость раздражение
+n#05588172	a feeling of intense indignation	 dudgeon high_dudgeon	mînie indignare nemulţumire	негодование возмущение
+n#05588321	intense anger usually on an epic scale	 wrath	furie mînie	гнев ярость 
+n#05588413	a feeling of intense anger	 fury rage madness	furie mînie înverşunare înfuriere năduf îndrăcire nebunie alienaţie turbare rabie	неистовство бешенство ярость гнев
+n#05588618	a state of fury so great the face becomes discolored	 lividity	lividitate paloare	бешенство ярость разъяренность остервенение
+n#05588725	a feeling of intense anger	 infuriation enragement	înfuriere furie exasperare	ярость бешенство неистовство
+n#05588822	a feeling of anger caused by being offended	 umbrage offense	jignire resentiment	обида
+n#05588960	a feeling of righteous anger	 indignation outrage	indignare insultă violenţă ofensă injurie 	негодование возмущение
+n#05589074	a passing state of anger and resentment	 huffiness	proastă_dispoziţie susceptibilitate	обида раздражение гнев
+n#05589169	a feeling of anger and animosity	 dander hackles	supărare indignare mînie	раздражение злость негодование недовольство враждебность вражда
+n#05589301	a persisting angry mood	 bad_temper ill_temper	irascibilitate iritabilitate	злонравие вздорный_характер
+n#05589430	anger produced by some annoying irritation	 annoyance chafe vexation	supărare deranjare iritaţie mînie agitaţie tulburare enervare	досада недовольство раздражение
+n#05589637	a sudden outburst of anger	 pique temper irritation	ciudă necaz pică mînie furie iritaţie	вспышка_гнева
+n#05589778	a feeling of annoyance at being hindered or criticized	 frustration	frustrare zădărnicíe	неудовлетворенность разочарование недовольство фрустрация
+n#05589957	an exasperated feeling of annoyance	 aggravation exasperation	exasperare desperare	досада раздражение гнев озлобление
+n#05590065	a feeling of intense annoyance caused by being tormented	 harassment torment	hărţuială tortură chin	притеснение мучение
+n#05605389	the feeling of being displeased or annoyed or dissatisfied with someone or something	 displeasure	nemulţumire supărare indignare 	неудовольствие недовольство досада
+n#05609785	the emotion of intense dislike; a feeling of dislike so strong that it demands action	 hate hatred	ură duşmănie	ненависть антипатия
+n#05610135	hatred of mankind	 misanthropy	mizantropie	мизантропия человеконенавистничество
+n#05610210	hatred of marriage	 misogamy	misogamie	браконенавистничество
+n#05610283	hatred of women	 misogyny misogynism	misoginie misoginism	женоненавистничество женофобия гинекофобия
+n#05610366	hatred of reasoning	 misology	misologie	мисология ненависть_к_науке
+n#05610440	hatred of change or innovation	 misoneism	misoneism	мисонеизм страх_перед_всем_новым
+n#05610544	hatred of new ideas	 misocainea	 	консерватизм ненависть_к_новым_идеям
+n#05610620	hatred of children	 misopedia	misopedie	мизопедия детоненавистничество отвращение_к_детям ненависть_к_детям
+n#05610694	cruelty evidence by a capability to commit murder	 murderousness	caracter_criminal	смертоностность убийственность
+n#05610803	a feeling of scornful hatred	 despisal despising	dispreţ	презрение пренебрежение
+n#05610898	the feeling of a hostile person	 hostility enmity ill_will	ostilitate duşmănie	вражда враждебность антагонизм неприязнь недоброжелательность
+n#05611157	a feeling of ill will arousing active hostility	 animosity animus bad_blood	animozitate impulsie duşmănie	вражда враждебность антагонизм неприязнь недоброжелательность
+n#05611281	feelings of envy and resentment of one social or economic class for toward another	 class_feeling	antagonism_social	классовый_антагонизм классовая_неприязнь
+n#05611423	the relation between opposing principles or forces or factors	 antagonism	antagonism	антагонизм противоборство
+n#05611552	a feeling of hostility that arouses thoughts of attack	 aggression aggressiveness	agresiune agresivitate	агрессивность враждебность агрессия
+n#05611680	hostile or warlike attitude or nature	 belligerence belligerency	beligeranţă stare_de_război	воинственность агрессивность враждебность
+n#05611809	hostile or belligerent mood 	 warpath	calea_războiului	враждебность воинственность тропа_войны
+n#05611927	a feeling of deep and bitter anger and ill-will	 resentment bitterness gall rancor rancour	resentiment indignare mînie înverşunare amărăciune 	обида горечь желчность злоба затаенная_обида
+n#05612142	intense resentment	 heartburning	gelozie invidie pică	недоброжелательство недовольство неудовлетворение неудовлетворённость
+n#05612278	a feeling of sulky resentment	 sulkiness huffishness	proasta_dispozitie suparare imbufnare	мрачность угрюмость
+n#05612377	a resentment strong enough to justify retaliation 	 grudge score grievance	pică nedreptate pagubă prejudiciu plîngere	недовольство злоба зависть обида
+n#05612539	a feeling of grudging admiration and desire to have something that is possessed by another	 envy enviousness the_green-eyed_monster	invidie pizmă	зависть
+n#05612765	an envious eagerness to possess something	 covetousness	lăcomie sete zgârcenie	алчность скупость жадность
+n#05612865	a feeling of jealous envy especially of a rival	 jealousy green-eyed_monster	gelozie bănuială invidie pizmă	ревность ревнивость
+n#05613127	wishing evil to others	 malevolence malignity	reavoinţă răutate	злорадство злоба недоброжелательность
+n#05613291	doing or causing evil	 maleficence	crimă	зловредность злонамеренность
+n#05613388	feeling a need to see others suffer	 malice maliciousness spite spitefulness venom	duşmănie vrăjmăşie răutate ciudă pică rea-voinţă	злоба злость озлобленность недоброжелательность
+n#05613522	a malevolent desire for revenge	 vindictiveness vengefulness	caracter_razbunator sete_de_razbunare vendetta	мстительность злопамятность
+n#05614716	a feeling of resentful anger	 irascibility short_temper spleen quick_temper	irascibilitate fire_aprinsă nestăpânire	вспыльчивость гнев раздражение раздражительность несдержанность горячность
+n#10337658	a display of bad temper	 fit tantrum scene	acces_de_furie toane scandal	приступ_гнева вспышка_гнева вспышка_раздражения
+r#00002940	in an enviable manner	enviably	cu_invidie	завидно
+r#00197662	with malice; in a malicious manner	maliciously	maliţios	злобно злонамеренно злоумышленно
+r#00220692	in an impassioned or very angry manner	furiously	cu_furie furios	бешено яростно неистово
+r#00220692	in an impassioned or very angry manner	 furiously	 	бешено яростно неистово
+r#00223640	in a displeasing manner	 angrily	supărat mînios	злобно гневно сердито злорадно
+r#00238872	with hostility; in a belligerent hostile manner	belligerently hostilely with_hostility	beligerant ostil	агрессивно воинственно враждебно неприязненно
+r#00268673	in a murderous frenzy	amok amuck murderously	amoc ucigator omorîtor	безумно бурно неистово бешено губительно убийственно
+r#00297720	with jealousy; in an envious manner	enviously covetously jealously	invidios rîvnitor	завистливо алчно жадно ревниво
+r#00312722	in a displeasing manner	 displeasingly	cu_nemultumire cu_suparare	неприятно противно отталкивающе
+r#00348685	in a hateful manner	hatefully	in_mod_odios	ненавистно отвратительно одиозно
+r#00353628	in a huffy manner	 huffily	țâfnos cu_tîfna cu_năduf cu_mînie	вспыльчиво обидчиво
+r#00367200	in an indignant manner 	 indignantly	indignat revoltat	негодующе возмущённо
+r#00378612	with jealousy	jealously	gelos invidios	ревниво завистливо
+r#00387194	in a livid manner	 lividly	cu_lividitate	зло разозлённо яростно неистово
+r#00389554	in a malevolent manner	malevolently	cu_răutate	зло злобно недоброжелательно
+r#00435658	with resentment; in a resentful manner	resentfully	cu_resentimente cu_ranchiună cu_pică cu_nemulţumire cu_iritare	обиженно возмущённо негодующе
+r#00437488	in a vindictive, revengeful manner	revengefully vengefully vindictively	răzbunător	мстительно
+r#00493548	in a wrathful manner	 wrathfully	mânios_la_culme infuriat_la_culme	гневно рассерженно яростно
+v#01211054	bear a grudge; harbor ill feelings	stew grudge	a_fierbe a_se_înnăduşi	мучиться томиться
+v#01211167	dislike intensely; feel antipathy or aversion towards	hate detest	a_urî a_detesta	ненавидеть питать_отвращение питать_антипатию
+v#01211403	find repugnant	abhor loathe abominate execrate	a_detesta a_urî	ненавидеть  испытывать_неприязнь испытывать_отвращение
+v#01211520	look down on with disdain	contemn despise scorn disdain	a_dispreţui a_batjocori a_zeflemisi 	презирать пренебрегать
+v#01219920	make angry	 anger	a_mînia	раздражать сердить злить гневать гневить
+v#01220279	make furious	 outrage enfuriate infuriate exasperate incense	a_insulta a_înfuria a_exaspera a_irita a_mînia 	разгневать разъярить взбесить разъярять бесить выводить_из_себя
+	atrocitate ofensă ocară atentat insultă ultraj crimă 			
+v#01220411	become angry	 anger see_red	a_se_mînia	разозлиться рассердиться рассвирепеть разъяриться
+v#01221002	cause annoyance in; disturb, especially by minor irritations	 annoy rag get_to bother get_at irritate rile nark nettle gravel vex devil	a_supăra a_deranja a_plictisi a_tachina a_necăji a_sîcîi a_agita a_tulbura 	раздражать сердить злить досаждать донимать допекать надоедать беспокоить докучать
+v#01221816	cause to feel resentment or indignation	 pique offend	a_irita a_jigni a_mîhni a_ofensa a_supăra a_mînia	уязвлять задевать раздражать распалять
+v#01229968	treat cruelly	 torment rag tantalize bedevil crucify dun frustrate	a_tortura a_certa a_tachina a_chinui a_brutaliza a_maltrata a_crucifica a_frustra a_zădarnici	мучить издеваться досаждать донимать допекать изводить терзать изнурять
+v#01231478	be in a huff; be silent or sullen	!!! sulk grizzle brood stew	a_se_îmbufna a_fierbe	дуться сердиться тяготиться томиться
+v#01239708	give displeasure to	 displease	a_nemulţumi	раздражать
+v#01242326	exasperate or irritate	 exacerbate exasperate aggravate	a_exacerba a_exaspera a_agrava	возмущать раздражать сердить озлоблять изводить бесить отягчать усугублять ухудшать обострять
+v#01246666	be envious of; set one's heart on	envy begrudge	a_invidia	завидовать
+v#01246798	wish, long, or crave for something, especially the property of another person 	covet	a_rîvni	жаждать домогаться
+v#01246968	feel envious towards; admire enviously 	envy	a_invidia	завидовать
+v#01762305	cause to suffer	 persecute oppress harass	a_hărţui a_sîcîi a_persecuta a_urmări a_oprima a_subjuga a_împila a_apăsa a_strivi	донимать преследовать надоедать допекать подавлять притеснять угнетать беспокоить волновать изводить тревожить утомлять изнурять
+v#01857366	be in a huff and display one's displeasure	sulk pout brood	a_se_îmbufna a_se_bosumfla	раздражаться обижаться оскорбляться дуться
+

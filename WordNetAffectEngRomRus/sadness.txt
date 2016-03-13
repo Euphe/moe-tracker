@@ -1,0 +1,120 @@
+﻿n#05600844 	sadness on thinking about the evils of the world	world-weariness Weltschmerz	plictiseală istovire	скорбь отчаяние мировая_скорбь усталость_от_жизни
+n#05600968 	intense mournfulness	woe woefulness	calamitate nenorocire jale durere	горе уныние печаль скорбь
+n#05604301	an oppressive feeling of heavy force	weight	greutate povară	бремя тяжесть груз
+n#05601315 	sadness expressed by weeping	weepiness tearfulness	plângere înlăcrimare plîns	плачь рыдания рыдание слёзы
+n#05602279 	sadness associated with some wrong done or some disappointment	sorrow regret ruefulness	supărare mîhnire necaz regret tristeţe jale	сожаление огорчение раскаяние угнетённость уныние
+n#05601413 	an emotion of great sadness associated with loss or bereavement	sorrow 	tristeţe durere necaz regret jale	горе печаль скорбь
+n#05603809 	a feeling of sorrow over your own sufferings	self-pity	văicăreală	жалость жалость_к_себе
+n#05599930 	emotions experienced when not in a state of well-being	sadness unhappiness	melancolie tristeţe nefericire	грусть печаль уныние 
+n#05602852 	remorse for your past conduct	repentance penitence penance	căinţă ispăşire penitenţă	покаяние сожаление раскаяние
+n#05602106 	expressing sorrowfulness	 plaintiveness	ton_plîngăreţ	горе печаль грусть уныние
+n#05604181	a feeling of being oppressed	oppression oppressiveness	opresiune împilare împovărare copleşire	угнетённость подавленность притеснённость
+n#05601957 	a state of gloomy sorrow	mournfulness sorrowfulness ruthfulness	tristete jale	скорбь печаль уныние грусть тоска хандра
+n#05601051	a feeling of intense unhappiness	misery	chin mizerie suferinţă	горе страдание отчаяние
+n#05600345 	a feeling of thoughtful sadness	melancholy	melancolie tristeţe nefericire	меланхолия уныние грусть тоска печаль
+n#05603196 	a feeling of dismal cheerlessness	joylessness	tristeţe nefericire	подавленность угрюмость уныние безрадостность
+n#05603715 	a feeling of being unable to manage	helplessness	neajutorare neputinţă	беспомощность
+n#05600637 	a feeling of dispirited melancholy	heavyheartedness	descurajare demoralizare tristeţe	подавленность уныние тяжесть_на_сердце
+n#05602697 	remorse caused by feeling responsible for some offense	guilt guilty_conscience guilt_feelings guilt_trip	vină vinovăţie	раскаяние сожаление вина виновность угрызения_совести
+n#05601776 	intense sorrow caused by loss of a loved one 	grief heartache heartbreak brokenheartedness	mîhnire durere suparare strîngere_de_inimă	горе печаль страдание скорбь душевная_боль
+n#05600505 	a feeling of melancholy apprehension	gloom gloominess somberness	melancolie tristeţe întunecime obscuritate ursuzenie	депрессия уныние подавленность 
+n#05601181 	sadness resulting from being forsaken or abandoned	forlornness loneliness desolation	nenorocire părăsire singurătate izolare abandonare părăsire singurătate	заброшенность покинутость одиночество одинокость
+n#05604748 	abnormal depression and discontent	dysphoria	disforie depresie	дисфория депрессия
+n#05603470 	a feeling of low spirits	downheartedness low-spiritedness dispiritedness	deprimare	печаль подавленность скорбь уныние угнетённость
+n#05603470  	 	downheartedness	deprimare	уныние подавленность депрессия
+n#05600250	sadness caused by grief or affliction	dolefulness	îndurerare	скорбь печаль меланхолия страдания страдание уныние
+n#05603932 	feeling downcast and disheartened and hopeless	despondency despondence heartsickness disconsolateness	descurajare mîhnire deznadejde neconsolare	безнадёжность уныние отчаяние подавленность угнетённость печаль упадок_духа
+n#05603287 	sad feelings of gloom and inadequacy	depression	criză depresiune deprimare	депрессия уныние угнетённость
+n#05603599 	destroying the moral basis for a doctrine or policy	demoralization	demoralizare	деморализация
+n#05602526 	a feeling of deep regret (usually for some misdeed)	 compunction remorse self-reproach	remuşcare autoîncriminare mustrări_de_conştiinţă	сожаление огорчение раскаяние жалость терзания самобичевание угрызения_совести
+n#05602960 	a feeling of dreary or pessimistic sadness	cheerlessness uncheerfulness	tristeţe nevoiciune	подавленность угрюмость уныние безрадостность
+n#05604103 	a state of depression	blue_devils	depresie deprimare	уныние тоска меланхолия хандра
+n#05601647 	sorrow for sin arising from fear of damnation	attrition contrition contriteness	remuşcare căinţă pocăinţă	раскаяние сокрушение сожаление
+a#01572491	contrite, remorseful, rueful, ruthful (feeling or expressing pain or sorrow for sins or offenses)	contrite	penitent chinuit_de_remuşcări plin_de_căinţă pocăit îndurerat jalnic lamentabil melancolic mîhnit trist	кающийся раскаивающийся сокрушающийся
+a#01681118  	feeling or expressing pain or sorrow for sins or offenses	contrite remorseful rueful sorry	jalnic trist întristat mîhnit necăjit căruia_îi_pare_rău	кающийся раскаивающийся сокрушающийся горестный подавленный удручённый сожалеющий
+a#00353542 	depressing, cheerless, uncheerful (causing sad feelings of gloom and inadequacy)	cheerless uncheerful	trist abatut posac posomorît lipsit_de_veselie	гнетущий мрачный угрюмый унылый безрадостный печальный
+				
+a#00826026 	destructive of morale and self-reliance	 demoralizing demoralising disheartening dispiriting	deprimant descurajator demoralizator	деморализующий дезорганизующий озадачивающий разочаровывающий
+a#01605795	made less hopeful or enthusiastic	demoralized discouraged disheartened	demoralizat descurajat	деморализованный дезорганизованный унывший обескураженный удручённый неуверенный
+a#00669611	gloomy, grim, blue, depressed, dispirited, down, downcast, downhearted, down in the mouth, low, low-spirited (filled with melancholy and despondency )	blue depressed dispirited down downcast downhearted low low-spirited	mohorît trist deprimat abătut 	подавленный унылый грустный угнетённый удручённый грустный печальный
+a#01309194 	depressing, cheerless, uncheerful (causing sad feelings of gloom and inadequacy)	depressing depressive gloomy saddening	deprimant descurajator demoralizator	депрессивный подавляющий угнетающий угрюмый печальный удручающий;
+a#01179135 	without or almost without hope	despondent heartsick	descurajat întristat disperat deznădăjduit chinuit	удрученный подавленный угнетенный отчаявшийся
+a#01309360 	filled with or evoking sadness	doleful mournful	lugubru trist	скорбный печальный меланхолический страдальческий унылый угрюмый мрачный
+				
+				
+a#00863871 	generalized feeling of distress	dysphoric distressed unhappy	nefericit sinistrat amărît	страдающий несчастный несчастливый
+a#01179297 	marked by or showing hopelessness	forlorn	deznădăjduit disperat nenorocit jalnic părăsit singuratic	безнадёжный
+a#00997111 	leave someone who needs or counts on you; leave in the lurch	desolate forlorn godforsaken lorn	pustiu părăsit singuratic părăsit oropsit	одинокий заброшенный покинутый оставленный осиротелый
+a#00353838	blue, dark, dingy, disconsolate, dismal, gloomy, grim, sorry, drab, drear, dreary (causing dejection) 	blue dark depressing disconsolate dismal dispiriting gloomy grim	trist posomorît sumbru deprimant dezolat inconsolabil	тоскливый безрадостный безнадёжный мрачный тяжёлый гнетущий тягостный унылый давящий зловещий удручающий
+a#00669950 	moody and melanchol	glum gloomy long-faced	trist încruntat descurajat melancolic mohorît posomorît întristat	унылый угрюмый печальный меланхоличный мрачный хмурый
+a#01309194	depressing, cheerless, uncheerful (causing sad feelings of gloom and inadequacy)	depressing depressive gloomy saddening	deprimant întristător	депрессивный подавляющий угнетающий угрюмый печальный удручающий
+a#00354187 	blue, dark, dingy, disconsolate, dismal, gloomy, grim, sorry, drab, drear, dreary (causing dejection) 	dingy dismal drab drear dreary gloomy sorry	posomorît sumbru îndurerat mohorît sumbru trist melancolic întristat mîhnit necăjit	неинтересный однообразный пресный серый скучный тусклый мрачный унылый гнетущий тягостный тоскливый безотрадный нудный угрюмый печальный
+a#01179526 	gloomy, grim, blue, depressed, dispirited, down, downcast, downhearted, down in the mouth, low, low-spirited (filled with melancholy and despondency )	 gloomy grim	descurajat melancolic mohorît	мрачный угрюмый печальный 
+a#00271194 	depressingly dark	 glooming gloomy gloomful	întunecos întunecat posomorât mohorît	тёмный мрачный хмурый унылый печальный угрюмый удручающий
+a#01312366 	causing or marked by grief or anguish	 grievous heartbreaking heartrending	dureros amarnic sfîşietor chinuitor cumplit	горестный печальный скорбный душераздирающий мучительный
+				
+a#01311729 	sorrowful through loss or deprivation	bereaved bereft grief-stricken grieving mourning sorrowing	lipsit îndurerat neliniştit mâhnit trist	лишённый утративший скорбный траурный печальный горестный
+a#00157147 	showing a sense of guilt	guilty hangdog shamefaced shamed	vinovat jalnic prăpădit mizerabil ruşinat	виноватый пристыженный стыдливый устыдившийся
+a#01309535 	depressed	heavyhearted	deprimat descurajat abătut demoralizat	подавленный угнетённый
+a#01314685 	not experiencing or inspiring joy	joyless	trist _indispus întristat	безрадостный невесёлый
+				
+a#01309603 	characterized by or causing or expressing sadness	melancholy melancholic	melancolic trist	меланхоличный меланхолический
+				
+#01000655  	deserving or inciting pity	hapless miserable misfortunate pathetic piteous pitiable pitiful poor wretched	nenorocit nenorocos nefericit deplorabil sărac nevoiaş sărman biet jalnic lamentabil regretabil	злополучный несчастливый несчастный бедный жалкий убогий жалостливый
+a#01102092	very unhappy; full of misery	miserable suffering wretched	nenorocit nefericit îndurerat	жалкий бедный несчастный страдающий мучающийся
+a#01309360 	filled with or evoking sadness	 doleful mournful	lugubru trist jalnic 	скорбный печальный меланхолический страдальческий унылый угрюмый мрачный
+				
+a#01313142	expressing sorrow	mournful plaintive	jalnic trist plîngător	унылый угрюмый печальный скорбный горестный жалобный заунывный
+a#00751449 	marked by unjust severity or arbitrary behavior	oppressive tyrannical tyrannous	copleşitor crud dur tiranic opresiv asupritor napraznic violent	тиранящий деспотичный властный тиранический деспотический жестокий подавляющий
+a#00828302 	burdened psychologically or mentally	laden oppressed	încărcat împovărat oropsit obidit	обременённый отягощённый угнетенный подавленный попранный
+a#02464962 	abused or oppressed by people in power	downtrodden oppressed persecuted	persecutat năpăstuit nedreptățit oropsit urgisit	втоптанный забитый гонимый подавленный угнетённый притесняемый преследуемый
+a#01313142 	expressing sorrow	mournful plaintive	jalnic trist plângător	унылый угрюмый печальный скорбный горестный жалобный заунывный
+a#01680937 	feeling or expressing remorse for misdeeds	 penitent repentant	penitent căit pocăit	кающийся раскаивающийся
+a#01313226 	of things that make you feel sad	sad	melancolic regretabil trist nefericit nenorocit	печальный унылый ужасный досадный
+#01101074 	experiencing or showing sorrow or unhappiness	 unhappy sad	amărît trist nefericit melancolic	несчастливый несчастный печальный унылый грустный подавленный
+				
+a#01308632	deplorable, distressing, lamentable, pitiful, sad, sorry (bad; unfortunate)	sad	amărît trist nefericit melancolic	плачевный прискорбный печальный огорчительный горестный
+				
+a#01311729 	sorrowful through loss or deprivation	 bereaved bereft grief-stricken grieving mourning sorrowing	lipsit îndurerat neliniştit mâhnnit trist	лишённый утративший скорбный траурный печальный горестный
+a#01310938	experiencing or marked by or expressing sorrow especially that associated with irreparable loss	sorrowful	trist supărat mâhnit amărât abătut melancolic îndurerat întristat	несчастный печальный горестный скорбный
+a#01101631 	regretful, sorry, bad (feeling or expressing regret or sorrow or a sense of loss over something done or undone) 	bad sorry	întristat mîhnit necăjit	огорчённый сожалеющий огорчающийся раскаивающийся
+a#00472844 	share the suffering of	pitying sorry sorry_for	compatimitor binevoitor îngăduitor înțelegător mărinimos milos milostiv	кающийся раскаивающийся выражающий_сожаление
+a#01681118 	feeling or expressing pain or sorrow for sins or offenses	contrite remorseful rueful sorry	penitent jalnic trist întristat mîhnit necăjit plin_de_căinţă căruia_îi_pare_rău_	кающийся раскаивающийся сокрушающийся сожалеющий горестный
+a#01102326 	regretful, sorry, bad (feeling or expressing regret or sorrow or a sense of loss over something done or undone)	 regretful sorry	întristat mîhnit necăjit plin_de_regret	сожалеющий печальный кающийся раскаивающийся огорчённый сожалеющий
+a#01312115 	showing sorrow	dolorous dolourous lachrymose tearful weeping	îndurerat plîngăreţ înlăcrimat plîngător tânguitor	плачущий плаксивый сентиментальный слезливый
+a#02235465	of very poor quality or condition	deplorable execrable miserable woeful wretched	jalnic deplorabil prost lamentabil mizer mizerabil	плачевный ужасный ужасающий отвратительный отталкивающий плохой жалкий страшный никудышный
+a#01313374 	affected by or full of grief or woe	woebegone woeful	trist intristat jalnic	мрачный горестный печальный скорбный несчастный
+a#02314238 	tired of the world	bored world-weary	plictisit scârbit lehămetit lehămetuit	скучающий уставший_от_жизни утративший_вкус_к_жизни
+v#01225879	feel remorse for; feel sorry for; be contrite about	repent regret rue	a_regreta a-i_părea_rău	раскаиваться сокрушаться каяться сожалеть
+v#01238101 	lower someone's spirits; make downhearted	depress deject cast_down get_down dismay dispirit demoralize	a_descuraja a_diminua a_deprima a_mîhni a_amărî a_consterna a_demoraliza	огорчать подавлять угнетать удручать расстраивать деморализовать
+				
+v#01226612 	cause to feel sorrow	grieve aggrieve	a_întrista a_mîhni a_îndurera a_jigni	огорчать опечаливать удручать
+v#01226464	feel grief	grieve sorrow	a_se_întrista a_se_mîhni a_plînge	грустить горевать печалиться скорбеть
+v#01762305 	cause to suffer	persecute oppress harass	a_hărţui a_sîcîi a_persecuta a_urmări a_oprima a_subjuga a_împila a_apăsa a_strivi	угнетать удручать притеснять докучать донимать допекать надоедать изводить тревожить утомлять изнурять беспокоить раздражать изматывать
+v#01225879 	feel remorse for; feel sorry for; be contrite about	repent regret rue	a_regreta a-i_părea_rău	раскаиваться сокрушаться каяться сожалеть
+v#01237116 	come to feel sad	 sadden sad	a_se_întrista a_se_mîhni	огорчиться расстроиться опечалиться загрустить
+				
+				
+r#00214298 	in a rueful manner	ruefully contritely remorsefully	jalnic pocăit	печально уныло покаянно сокрушённо грустно горестно 
+r#00227305 	in an unhappy manner	cheerlessly	trist	мрачно подавленно угрюмо уныло безрадостно невесело
+				
+r#00296382 	with desperation	despairingly despondently	deznădăjduit deprimat abătut	отчаянно безрассудно безнадёжно безысходно подавленно уныло
+r#00315910 	with sadness; in a sorrowful manner	 dolefully sorrowfully	jalnic cu_jale tînguios cu_tristeţe cu_mîhnire	печально скорбно грустно горестно плачевно уныло
+r#00337887 	in a forlorn manner	 forlornly	disperat	заброшенно одиноко несчастно покинуто
+r#00228716 	with gloom	 gloomily	posomorît mohorît trist melancolic	угрюмо мрачно уныло хмуро подавленно
+r#00345753 	in a grievous manner	grievously	dureros cu_cruzime	горестно печально тяжко
+				
+r#00343022 	in a joyless manner; without joy	joylessly	trist cu_tristeţe	печально безрадостно
+				
+r#00397497 	in a miserable manner	miserably	mizerabil jalnic groaznic	несчастно печально прискорбно жалко презренно
+				
+r#00399172 	in a mournful manner	mournfully	cu_jale trist	уныло угрюмо печально скорбно мрачно
+				
+r#00408211 	in a heavy and oppressive way	oppressively	cu_asprime cu_cruzime despotic	жестоко деспотически тиранически подавляюще
+r#00419566		plaintively	cu_jale plîngător tânguios	горестно печально грустно жалобно
+r#00359722 	showing remorse	penitently penitentially repentantly	cu_cainţă spăsit regretabil cu_părere_de_rău_	покаянно сожалея каясь
+r#00090468 	in an unfortunate or deplorable manner	deplorably lamentably sadly woefully	în_mod_lamentabil deplorabil jalnic trist cu_tristeţe	печально прискорбно плачевно скорбно горестно
+r#00399051		sadly	trist cu_tristeţe jalnic	печально грустно скорбно горестно
+r#00315910 	with sadness; in a sorrowful manner	dolefully sorrowfully	jalnic cu_jale tînguios cu_tristeţe cu_mîhnire	грустно печально скорбно горестно прискорбно
+r#00455379		sorrowfully	cu_tristeţe cu_mîhnire	печально грустно горестно плачевно
+

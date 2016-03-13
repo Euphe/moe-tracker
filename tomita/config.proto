@@ -1,0 +1,38 @@
+encoding "utf8";
+
+TTextMinerConfig {
+  Dictionary = "tomita/dict.gzt";
+
+  Articles = [
+  	{ Name = "названия_стран" },
+  	{ Name = "стоп_слова"},
+    { Name = "граммемы" }
+
+
+  ]
+  
+
+  Output = {
+  	Format = text;
+  }
+
+  Facts = [
+   { Name = "S" },
+   { Name = "A" },
+   { Name = "ADV" },
+   { Name = "ADVPRO" },
+   { Name = "ANUM" },
+   { Name = "APRO" },
+   { Name = "COM" },
+   { Name = "CON" },
+   { Name = "CONJ" },
+   { Name = "INTJ" },
+   { Name = "NUM" },
+   { Name = "PART" },
+   { Name = "PR" },
+   { Name = "SPRO" },
+   { Name = "V" }
+
+  ]
+
+}

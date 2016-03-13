@@ -1,0 +1,17 @@
+﻿n#05577970	intense aversion	repugnance repulsion horror	antipatie aversiune contradicţie împotrivire dezgust scîrbă incompatibilitate	отвращение
+n#05578076	disgust so strong it makes you feel sick	nausea	greaţă	тошнота отвращение
+n#05577676	strong feelings of dislike	disgust	dezgust	отвращение омерзение
+a#01566899	highly offensive; arousing aversion or disgust	disgusting disgustful distasteful foul loathly loathsome repellent repellant revolting wicked yucky	dezgustător scârbos dezagreabil scîrbos greţos respingător indecent obscen	омерзительный отвратительный плохой противный неприятный отталкивающий грязный нечистый нечестивый
+a#01734691	having a strong distaste from surfeit	disgusted fed_up sick sick_of tired_of	scîrbit dezgustat sătul	пресытившийся осточертевший
+a#02436303	causing or able to cause nausea	nauseating nauseous noisome loathsome offensive sickening vile	dezgustător respingător greţos neplăcut 	тошнотворный отвратительный омерзительный противный мерзкий неприятный противный ужасный
+a#02424563	feeling nausea; feeling about to vomit	nauseated queasy sick sickish	îngreţoşat scârbit căruia_îi_vine_greaţă	тошнотворный тошнотный
+a#00218804	so extremely ugly as to be terrifying	hideous repulsive	hidos repulsiv respingător	отвратительный омерзительный страшный ужасный отталкивающий противный уродливый
+a#01566364	offensive to the mind	abhorrent detestable obscene repugnant repulsive	respingător dezgustat scîrbos detestabil obscen trivial nesupus inadmisibil repulsiv de_nesuferit	претящий отвратительный гнусный мерзкий непристойный непотребный грязный неприличный невыносимый
+v#01233868	cause aversion in; offend the moral sense of	disgust revolt nauseate sicken churn_up	a_revolta a_dezgusta a_scîrbi a_îngreţoşa	отталкивать вызывать_тошноту разбередить_душу
+v#01502738	fill with distaste	disgust turn_off revolt repel	a_revolta a_dezgusta a_înspira_repulsie	отталкивать вызывать_тошноту вызывать_отвращение
+v#01234179	be repellent to; cause aversion in	repel repulse	a_respinge a_înspira_repulsie	отталкивать отвергать вызывать_отвращение вызывать_неприязнь
+r#00308724	with disgust	disgustedly	cu_dezgust cu_scârbă	с_отвращением с_неприязнью
+r#00308881 	in a disgusting manner or to a disgusting degree	disgustingly distastefully revoltingly sickeningly	în_mod_dezgustator fără_plăcere 	мерзко отвратительно противно неприятно отталкивающе тошнотворно
+r#00304232	in an offensive and hateful manner	detestably repulsively abominably odiously	odios repugnant îngrozitor în_mod_detestabil în_mod_abominabil	отвратительно мерзко плохо противно отталкивающе грязно омерзительно гнусно ненавистно низко
+r#00308582	with disgust	disgustedly	cu_dezgust cu_scirba	с_отвращением
+v#01502875	upset and make nauseated	sicken nauseate	a_dezgusta a_scîrbi a_îngreţoşa	вызывать_чувство_тошноты вызывать_чувство_отвращения шокировать
